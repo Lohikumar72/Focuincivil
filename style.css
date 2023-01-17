@@ -1,0 +1,155 @@
+.buttons {
+  padding: 3px;
+  background-color: rgb(8, 21, 207);
+  display: flex;
+  flex-direction: row;
+  border-color: white;
+  align-items: center;
+  justify-content: space-around;
+  gap: 18px;
+}
+
+.image {
+  display: flex;
+  align-self: flex-start;
+  border-color: black;
+}
+
+.home {
+  color: beige;
+  border-color: beige;
+  text-decoration-style: solid;
+  flex: 1;
+  width: 200px;
+  height: 40px;
+  background: rgb(1, 2, 2);
+  transition-property: inherit;
+}
+.aboutus {
+  color: beige;
+  border-color: beige;
+  text-decoration-style: solid;
+  flex: 1;
+  width: 200px;
+  height: 40px;
+  background: rgb(2, 3, 3);
+  transition-property: inherit;
+}
+
+.services {
+  color: beige;
+  border-color: beige;
+  text-decoration-style: solid;
+  flex: 1;
+  width: 200px;
+  height: 40px;
+  background: rgb(11, 15, 17);
+  transition-property: inherit;
+}
+
+.contactus {
+  color: beige;
+  border-color: beige;
+  text-decoration-style: solid;
+  flex: 1;
+  width: 200px;
+  height: 40px;
+  background: rgb(10, 14, 15);
+  transition-property: inherit;
+}
+
+.buttons div {
+  border: 4px solid brown;
+  height: 100px;
+}
+
+.marquee {
+  display: flex;
+  color: beige;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.logoname {
+  align-items: center;
+  display: flex;
+  background-color: rgb(107, 189, 40);
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.link3 {
+  display: flex;
+}
+
+.companyintroduction {
+  display: flex;
+  border-color: beige;
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.projects {
+  padding: 15px;
+  background-color: blue;
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.youtubelinks {
+  background-color: rgb(0, 0, 0);
+  overflow-x: hidden;
+  overflow-y: hidden;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.firstclient {
+  font-size: 40px;
+  padding: 10px;
+  background-color: rgb(21, 22, 22);
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+  color: beige;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.secondclient {
+  font-size: 40px;
+  padding: 10px;
+  background-color: rgb(11, 12, 12);
+  display: flex;
+  justify-content: center;
+  text-decoration: underline;
+  color: beige;
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.footer {
+  display: flex;
+  flex: 1;
+  background-color: cyan;
+  padding: 10px;
+  overflow-x: hidden;
+}
+
+.body {
+  background-color: black;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}

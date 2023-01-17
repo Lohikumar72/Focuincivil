@@ -1,0 +1,197 @@
+.body {
+  background-image: url(https://images.pexels.com/photos/1722183/pexels-photo-1722183.jpeg?auto=compress&cs=tinysrgb&w=400);
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+}
+
+
+.buttontags {
+  padding: 3px;
+  background-color: rgb(8, 21, 207);
+  display: flex;
+  flex-direction: row;
+  border-color: white;
+  align-items: center;
+  justify-content: space-around;
+  gap: 18px;
+}
+#image {
+  display: flex;
+  align-self: flex-start;
+  border-color: black;
+}
+
+.home {
+  color: beige;
+  border-color: beige;
+  text-decoration-style: solid;
+  flex: 1;
+  width: 200px;
+  height: 40px;
+  background: rgb(1, 2, 2);
+  transition-property: inherit;
+}
+.aboutus {
+  color: beige;
+  border-color: beige;
+  text-decoration-style: solid;
+  flex: 1;
+  width: 200px;
+  height: 40px;
+  background: rgb(2, 3, 3);
+  transition-property: inherit;
+}
+
+.services {
+  color: beige;
+  border-color: beige;
+  text-decoration-style: solid;
+  flex: 1;
+  width: 200px;
+  height: 40px;
+  background: rgb(11, 15, 17);
+  transition-property: inherit;
+}
+
+.contactus {
+  color: beige;
+  border-color: beige;
+  text-decoration-style: solid;
+  flex: 1;
+  width: 200px;
+  height: 40px;
+  background: rgb(10, 14, 15);
+  transition-property: inherit;
+}
+
+.header {
+  display: flex;
+  flex: 1;
+  background-color: rgb(3, 2, 12);
+  color: beige;
+  padding: 25px;
+  align-content: space-between;
+  justify-content: center;
+  margin-top: 0;
+}
+
+.image {
+  display: flex;
+  flex: 1;
+  border: black;
+  align-self: center;
+  justify-content: center;
+}
+
+.foundername {
+  display: flex;
+  background-color: black;
+  color: beige;
+  font-size: 30px;
+  justify-content: center;
+  align-self: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.managingdirector {
+  display: flex;
+  background-color: black;
+  color: beige;
+  font-size: 20px;
+  justify-content: center;
+  align-self: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.info {
+  display: flex;
+  background-color: black;
+  color: beige;
+  font-size: 12px;
+  justify-content: center;
+  align-self: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.panelname {
+  display: flex;
+  background-color: rgb(247, 10, 10);
+  color: beige;
+  justify-content: center;
+  align-self: center;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+.shivakumar {
+  display: flex;
+  background-color: black;
+  color: beige;
+  font-size: 25px;
+  justify-content: center;
+  align-self: center;
+}
+.praveen {
+  display: flex;
+  background-color: black;
+  color: beige;
+  font-size: 25px;
+  justify-content: center;
+  align-self: center;
+}
+.prajwal {
+  display: flex;
+  background-color: black;
+  color: beige;
+  font-size: 25px;
+  justify-content: center;
+  align-self: center;
+}
+.siddaling {
+  display: flex;
+  background-color: black;
+  color: beige;
+  font-size: 25px;
+  justify-content: center;
+  align-self: center;
+}
+.shivamrutha {
+  display: flex;
+  background-color: black;
+  color: beige;
+  font-size: 25px;
+  justify-content: center;
+  align-self: center;
+}
+
+.membersname {
+}
+
+.team {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-variant-numeric: normal;
+}
+
+.footer {
+  display: flex;
+  flex: 1;
+  background-color: cyan;
+  padding: 10px;
+  overflow-x: hidden;
+  margin: 0;
+}
